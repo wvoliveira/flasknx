@@ -12,7 +12,7 @@ setup(
     author_email='oliveira@live.it',
     python_requires='>=3.5',
     install_requires=[
-        'Flask==1.1.1',
+        'Flask==2.3.2',
         'Flask-RESTful==0.3.7',
         'prometheus-flask-exporter==0.9.1',
         'py-healthcheck==1.9.0',
